@@ -1,0 +1,59 @@
+.nav{
+  margin-right: 50px;
+
+}
+
+.our{
+  text-align: center;
+}
+
+.button2{
+  position: relative;
+  left: 1090px;
+  background-color: white;
+  border-radius: 80%;
+  height: 55px;
+  font-size: 11px;
+  color: green;
+
+}
+.button1{
+  border-radius: 80%;
+  height: 50px;
+  color: green;
+  background-color: white;
+  position: relative;
+  left: 530px;
+}
+
+.button3{
+  border-radius: 80%;
+  height: 50px;
+  color: green;
+  background-color: white;
+  position: relative;
+  left: 15px;
+  font-size: 12px;
+}
+.footer1{
+  color: white;
+  position: relative;
+  top: 20px;
+  text-align: center;
+}
+
+.footer2{
+  background-color: black;
+  height: 50px;
+  position: relative;
+  top: 30px;
+}
+.kalimat{
+  text-align: justify;
+  font-style: italic;
+  border: 1px solid black;
+  width: 1000px;
+  position: relative;
+  left: 140px;
+  padding: 10px;
+}
